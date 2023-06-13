@@ -7,7 +7,7 @@
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=alexosugo&count_private=true&show_icons=true&theme=gruvbox&layout=compact" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexosugo&langs_count=8&hide=html&layout=compact&theme=gruvbox" /></td>
+<!--       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexosugo&langs_count=8&hide=html&layout=compact&theme=gruvbox" /></td> -->
   </tr>   
   <tr>
     <td>
